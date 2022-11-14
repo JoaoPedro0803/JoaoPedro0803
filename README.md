@@ -7,6 +7,8 @@ I'm a Software Engineering student at University of Brasilia 💻😃
 
 ## Areas of Interest:
 
+  Low Code
+  
   Cloud Programming
   
   Database Systems
@@ -24,6 +26,9 @@ I'm a Software Engineering student at University of Brasilia 💻😃
   Files Management - Operating System Fundamentals
 
   Development of a Database for the Company IMAX
+  
+## Currently Learning:
+  Low Code
   
 ## More info:
   
