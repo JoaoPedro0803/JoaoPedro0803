@@ -34,4 +34,5 @@ I'm a Software Engineering student at University of Brasilia and a software deve
   
 ![My GitHub stats!](https://github-readme-stats.vercel.app/api?username=JoaoPedro0803&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedro0803&langs_count=8&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
