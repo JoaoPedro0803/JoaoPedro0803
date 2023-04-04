@@ -1,5 +1,5 @@
 ## Hi there, I'm João Pedro de Camargo Vaz
-I'm a Software Engineering student at University of Brasilia and a software developer at Stefanini 💻😃
+I'm a Software Engineering student at University of Brasilia and a software developer at Stefanini - Low Code Servicenow - 💻😃
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-camargo-vaz-6a8308216/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedrocvaz@gmail.com)
