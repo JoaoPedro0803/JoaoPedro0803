@@ -2,12 +2,12 @@
 I'm a Software Engineering student at University of Brasilia and a software developer at Stefanini - Low Code Servicenow - 💻😃
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-camargo-vaz-6a8308216/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaopedrocvaz@gmail.com)
-
 
 ## Areas of Interest:
 
   Low Code
+  
+  Servicenow
   
   Cloud Programming
   
@@ -17,18 +17,18 @@ I'm a Software Engineering student at University of Brasilia and a software deve
   
   Software Testing
   
-  Front End 
+  React Native
   
 ## Last Projects Worked:
 
-  Graphs - Data Structure
+  [Graphs] - (https://github.com/projeto-de-algoritmos/Grafos1_exercicios)
   
   Files Management - Operating System Fundamentals
 
   Development of a Database for the Company IMAX
   
 ## Currently Learning:
-  Low Code
+  Low Code - Servicenow
   
 ## More info:
   
