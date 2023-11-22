@@ -6,27 +6,7 @@ Software Engineering student at University of Brasilia
 
 ## Areas of Interest:
 
-  Low Code
-  
-  Servicenow
-  
-  Cloud Programming
-  
-  Database Systems
-  
-  Data Structure
-  
-  Software Testing
-  
-  React Native
-  
-## Last Projects Worked:
-
-  [Graphs] - (https://github.com/projeto-de-algoritmos/Grafos1_exercicios)
-  
-  Files Management - Operating System Fundamentals
-
-  Development of a Database for the Company IMAX
+  Low Code | Servicenow | Cloud Programming | Node.js | React | AngularJS | Handlebars | MySQL
   
 ## Currently Learning:
   Low Code - Servicenow
