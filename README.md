@@ -6,10 +6,8 @@ Software Engineering student at University of Brasilia
 
 ## Areas of Interest:
 
-  Low Code | Servicenow | Cloud Programming | Node.js | React | AngularJS | Handlebars | MySQL
+  Low Code | Servicenow | Cloud Programming | AI | Node.js | React | AngularJS | Handlebars | MySQL
   
-## Currently Learning:
-  Low Code - Servicenow
   
 ## More info:
   
